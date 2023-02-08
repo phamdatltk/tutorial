@@ -1,2 +1,5 @@
-Đến cả con khỉ hehe 
+Đến cả con khỉ hehe
+
+đây là dòng 2 này, tý nữa m phải làm nó xuất hiện ở code chính, tao là thằng đạt, và tao là thằng viết dòng này
+code này viết đúng, đừng có mà xóa 
 
